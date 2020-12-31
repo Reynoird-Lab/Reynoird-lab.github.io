@@ -58,7 +58,7 @@ ul.posts li {
 
 .picture-left {
 	float: left;
-  margin : 0% 0% 10% 10%;
+  margin : 10% 10% 10% 0%;
 }
 
 .paragraph-right {
