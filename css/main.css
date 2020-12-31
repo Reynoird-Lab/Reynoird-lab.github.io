@@ -67,3 +67,8 @@ ul.posts li {
 .paragraph-right {
   margin-top : 50px;
 }
+
+img {  
+  width : 100px;  
+  vertical-align:top;
+}
