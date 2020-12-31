@@ -56,6 +56,14 @@ ul.posts li {
     list-style: none;
 }
 
-.picture-left{
+.picture-left {
     float: left;
+}
+
+.div-categoryContainer {
+    padding: 10px;
+}
+ 
+.paragraph-right {
+  margin-top : 50px;
 }
