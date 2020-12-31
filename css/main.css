@@ -56,6 +56,11 @@ ul.posts li {
     list-style: none;
 }
 
-.picture-left {
-    float: left;
+.picture-left{
+	float: left;
+  margin : auto;
+}
+
+.paragraph-right {
+  margin : 0% 10% 10% 40%
 }
