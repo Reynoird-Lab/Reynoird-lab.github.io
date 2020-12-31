@@ -41,6 +41,7 @@ p {
     color: #333;
     align: justify;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -53,4 +54,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.picture-left{
+    float: left;
 }
