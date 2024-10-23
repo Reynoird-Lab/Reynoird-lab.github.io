@@ -1,0 +1,32 @@
+
+
+---
+layout: default
+title: Media coverage
+---
+<meta name="description" content="Coverage of the Reynoird Lab research"/>
+
+	<h1>Reynoird Lab - {{ page.title }}</h1>
+
+<div class="div-categoryContainer">
+	<img src="https://reynoird-lab.github.io/Images/MESR.svg" title="MESR" width="220" style="margin: 0px 20px 10px 0px;" class="picture-left">
+  <div class="paragraph-right">
+  <p align="justify"> Dr Reynoird interviewed by the French Ministery of education and research (in french) here: <a href="https://www.enseignementsup-recherche.gouv.fr/fr/interview-de-nicolas-reynoird-les-avancees-de-la-recherche-sur-le-cancer-du-sein-97714" "style="color:DARKSLATEGRAY;"> Interview de Nicolas Reynoird : les avancées de la recherche sur le cancer du sein </a> </p> 
+	 </div>
+</div>
+
+<hr>
+
+
+<div class="div-categoryContainer">
+	<img src="https://reynoird-lab.github.io/Images/MESR.svg" title="MESR" width="220" style="margin: 0px 20px 10px 0px;" class="picture-left">
+  <div class="paragraph-right">
+  <p align="justify"> Follow the Reynoird lab in different ways! 
+- <a href="https://x.com/reynoirdlab" "style="color:DARKSLATEGRAY;"> X / Twitter </a>
+- <a href="https://www.linkedin.com/in/nicolas-reynoird-06a4375/" "style="color:DARKSLATEGRAY;"> Linkedin </a>
+- <a href="https://iab-grenoble.fr/en/recherche/equipes/dynamique-de-la-methylation-des-proteines-dans-le-cancer" "style="color:DARKSLATEGRAY;"> IAB website </a>
+- <a href="https://reynoird-lab.github.io/" "style="color:DARKSLATEGRAY;"> Reynoird lab website </a></p> 
+	 </div>
+</div>
+
+<hr>
